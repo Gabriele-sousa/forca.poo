@@ -10,7 +10,7 @@ const f = new Forca();
 var ganhar;
 var perder;
 //início
-alert("Bem vindo ao jogo da velha! Para adicionar novas palavras pressione 1");
+alert("Bem vindo ao jogo da forca! Para adicionar novas palavras pressione 1");
 //pinta o fundo de verde
 ctx.fillStyle = "#1e3317";
 ctx.fillRect(0,0,c.width, c.height);
