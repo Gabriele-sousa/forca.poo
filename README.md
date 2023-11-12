@@ -18,4 +18,6 @@ Gabriele Batista Sousa e Filipe Custodio Gonçalves
 
 ## Desenvolvimeto
 Para criar esse projeto foi necessario utilizar os seguintes passos:
-1. Criar o `index.html` com a estrutura basica do HTML e adicionar o `<canvas>`.
+1. Criar o `index.html` com a estrutura basica do HTML e adicionar o elemento `<canvas>` e chamar o JS.
+
+2. 
