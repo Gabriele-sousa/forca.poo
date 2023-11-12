@@ -70,4 +70,4 @@ a tecla precionada pertença a palavra escolhida, é verificado em que posiçõe
 <img src="imagens/atv.png">
 
 * Classes
-* <img src="imagens/cls.png">
+<img src="imagens/cls.png">
