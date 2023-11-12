@@ -58,3 +58,16 @@ predeterminadas, `palavra` é a palavra escolhida pela forca e `letrasPalavra` �
 
 * __Evento ao pressionar tecla:__ quando o jogador preciona uma tecla, é verificado que tecla foi pressionada. Caso a tecla seja o número 1 um aviso aparecerá pedindo para adicionar uma nova palavra ao atributo `palavras` e o jogo é reiniciado. Caso a tecla precionada não pertença a palavra escolhida o método `desenharBoneco()` é chamado. Caso 
 a tecla precionada pertença a palavra escolhida, é verificado em que posições da palavra ela se encontra e é desenhado a letra na posição correta. Caso a palavra seja completa o jogo é finalizado e reiniciado.
+
+## Diagramas
+* Casos de uso
+<img src="imagens/cdu.png">
+
+* Documentação
+<img src="imagens/documento.png">
+
+* Atividade
+<img src="imagens/atv.png">
+
+* Classes
+* <img src="imagens/cls.png">
