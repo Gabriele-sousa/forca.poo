@@ -52,7 +52,7 @@ class Boneco{
             }
             setTimeout(() =>{
                 if(p == 6){
-                    alert('Você perdeu, vai estudar');
+                    alert('Você perdeu, vai estudar. A palavra era '+ f.p);
                     jogo();
                 }
             }, 30);
